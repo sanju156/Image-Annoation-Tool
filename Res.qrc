@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Images/icon/advance icon.png</file>
+    <file>Images/icon/annotation.jpeg</file>
+    <file>Images/icon/boundingboxes.png</file>
+    <file>Images/icon/brighten icon.png</file>
+    <file>Images/icon/close icon.png</file>
+    <file>Images/icon/darken icon.png</file>
+    <file>Images/icon/dupicate icon.png</file>
+    <file>Images/icon/edit label.png</file>
+    <file>Images/icon/fit width.png</file>
+    <file>Images/icon/fit window.png</file>
+    <file>Images/icon/hide icon.png</file>
+    <file>Images/icon/next image.png</file>
+    <file>Images/icon/open canva.png</file>
+    <file>Images/icon/open icon.png</file>
+    <file>Images/icon/origibal icon.png</file>
+    <file>Images/icon/original brightnes.png</file>
+    <file>Images/icon/pencil icon.png</file>
+    <file>Images/icon/previous image 3.png</file>
+    <file>Images/icon/previous image.png</file>
+    <file>Images/icon/previous image2.png</file>
+    <file>Images/icon/remove icon.png</file>
+    <file>Images/icon/reset icon.png</file>
+    <file>Images/icon/save icon.png</file>
+    <file>Images/icon/Save.png</file>
+    <file>Images/icon/verify image.png</file>
+    <file>Images/icon/Yolo.png</file>
+    <file>Images/icon/zoom out icon.png</file>
+    <file>Images/icon/zoom.png</file>
+  </qresource>
+</RCC>
